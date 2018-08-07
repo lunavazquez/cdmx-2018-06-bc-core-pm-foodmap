@@ -51,7 +51,7 @@
   },
   {
     "latitude": 19.472589,
-    "longitude": "-99.192146",
+    "longitude": -99.192146,
     "name": "McDonald's",
     "place": "Azcapotzalco",
     "costo": "$50 - $80",
@@ -68,6 +68,26 @@
     "address": "Colina de Las Ortigas 53, Boulevares, 53140 Naucalpan de Juárez, Méx.",
     "foodType": "Hamburguesas",
     "img": "img/hamburguesa.jpg"
+  },
+  {
+    "latitude": 19.350954,
+    "longitude": -99.161364,
+    "name": "Burguer King",
+    "place": "Coyoacan",
+    "costo": "$50 - $80",
+    "address": "Ignacio Allende 5, El Carmen, Del Carmen, 04100 Coyoacan, CDMX",
+    "foodType": "Hamburguesas",
+    "img": "img/burger.jpg"
+  },
+  {
+    "latitude": 19.361606,
+    "longitude": -99.1889170,
+    "name": "Burguer King",
+    "place": "San Ángel",
+    "costo": "$50 - $80",
+    "address": "Av. Revolución 1267, Los Alpes, 01040 Ciudad de México, CDMX",
+    "foodType": "Hamburguesas",
+    "img": "img/burger.jpg"
   },
   {
     "latitude": 19.335939,

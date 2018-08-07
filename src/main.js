@@ -25,13 +25,13 @@ const renderRestaurantList = (restaurantList) => {
         <p class="name">${restaurant.name}</p>
         <span class="foodType">${restaurant.place}</span>
       </li>
-    `)
+    `);
   }).join(''); // como es un arreglo pone , y con join lo juntas sin ,
   document.getElementById('restaurant-list').innerHTML = restaurantListHTML;
 }
 // punto rojo en el mapa de google (documentacion)
 const createMark = (restaurantId) => {
-  //saco el string de localStorage y lo convierto a un arreglo de objetos
+  // saco el string de localStorage y lo convierto a un arreglo de objetos
   let restaurantList = localStorage.getItem('restaurantList');
   restaurantList = JSON.parse(restaurantList);
   // obtiene el restaurante cuando le da click el usuario en la lista por el Id(posision dentro del arreglo)
@@ -70,7 +70,7 @@ const closeModal = () => {
   document.getElementById('modal-container').style.zIndex = -1;
 }
 // agregar evento que escucha cuando escribes en el input y filtra los resultados del arreglo original para volver a pintar la lista de restaurantes
-document.getElementById('input-search').addEventListener('keyup', function (event) { // keyup es un evento que escucha cuando sueltas una tecla despues de haberla presionado
+document.getElementById('input-search').addEventListener('keyup', (event) => { // keyup es un evento que escucha cuando sueltas una tecla despues de haberla presionado
   let restaurantList = localStorage.getItem('restaurantList');
   restaurantList = JSON.parse(restaurantList);
 
