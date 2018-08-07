@@ -1,0 +1,22 @@
+{
+  "name": "foodmap",
+  "version": "1.0.0",
+  "description": "Un sitio mobile para buscar restaurantes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server ./src -p 9999 -c 0 -o -s"
+  },
+  "keywords": [
+    "food",
+    "map",
+    "mapas",
+    "laboratoria",
+    "js",
+    "javascript"
+  ],
+  "author": "@lunavazquez",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}

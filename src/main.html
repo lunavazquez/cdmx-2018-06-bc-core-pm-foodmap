@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Simple Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet">
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+  <header class="search-container">
+    <input id="input-search" type="text" class="input-search" maxlength="50" placeholder="Que se te antoja?">
+  </header>
+  <article id="map" class="map-container"></article>
+  <aside class="restaurant-list-container">
+    <ul id="restaurant-list" class="restaurant-list"></ul>
+  </aside>
+  <div id="modal-container" class="modal-container" onclick="closeModal()">
+    <div id="modal" class="modal"></div>
+  </div>
+  <script src="main.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCpFYDIYvirIeUdvZ_jKmNrvgvZKVpx0H8&callback=initApp" async defer></script>
+</body>
+
+</html>

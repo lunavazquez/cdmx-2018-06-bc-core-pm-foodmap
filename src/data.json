@@ -1,0 +1,172 @@
+[
+  {
+    "latitude": 19.510872,
+    "longitude": -99.136740,
+    "name": "Casa de Toño",
+    "place": "Lindavista",
+    "costo": "$ 250",
+    "address": "Av. Guillermo Massieu Helguera 86, La Escalera, 07320 Ciudad de México, CDMX",
+    "foodType": "Mexican",
+    "img": "img/casa-toño.jpg"
+  },
+  {
+    "latitude": 19.466615,
+    "longitude": -99.186531,
+    "name": "Casa de Toño",
+    "place": "Claveria",
+    "costo": "$ 250",
+    "address": "Calle Floresta 77, Claveria, 02080 Ciudad de México, CDMX",
+    "foodType": "Mexican",
+    "img": "img/casa-toño.jpg"
+  },
+  {
+    "latitude": 19.450000,
+    "longitude": -99.160000,
+    "name": "Casa de Toño",
+    "place": "Santa Maria la Ribera",
+    "costo": "$250",
+    "adress": "Calle Sabino 166, Sta María la Ribera, 06400 Ciudad de México, CDMX",
+    "foodType": "Mexican",
+    "img": "img/casa-toño.jpg"
+  },
+  {
+    "latitude": 19.500718,
+    "longitude": -99.235852,
+    "name": "La Polar",
+    "place": "Satelite",
+    "costo": "$300",
+    "address": "Boulevard Manuel Ávila Camacho 1809, Cd. Satélite, 53100 Naucalpan de Juárez, Méx.",
+    "foodType": "Birria",
+    "img": "img/polar.jpg"
+  },
+  {
+    "latitude": 19.439070,
+    "longitude": -99.167737,
+    "name": "La Polar",
+    "place": "San Rafael",
+    "costo": "$300",
+    "address": "Calle Guillermo Prieto 129, San Rafael, 06470 Ciudad de México, CDMX",
+    "foodType": "Birria",
+    "img": "img/polar.jpg"
+  },
+  {
+    "latitude": 19.472589,
+    "longitude": "-99.192146",
+    "name": "McDonald's",
+    "place": "Azcapotzalco",
+    "costo": "$50 - $80",
+    "address": "Walmart Azcapotzalco, Calle Camino a Nextengo 78, Santa Cruz Acayucan, 02770 Ciudad de México, CDMX",
+    "foodType": "Hamburguesas",
+    "img": "img/hamburguesa.jpg"
+  },
+  {
+    "latitude": 19.494612,
+    "longitude": -99.245560,
+    "name": "McDonald's",
+    "place": "Lomas Verdes",
+    "costo": "$50 - $80",
+    "address": "Colina de Las Ortigas 53, Boulevares, 53140 Naucalpan de Juárez, Méx.",
+    "foodType": "Hamburguesas",
+    "img": "img/hamburguesa.jpg"
+  },
+  {
+    "latitude": 19.335939,
+    "longitude": -99.178312,
+    "name": "Domino's Pizza",
+    "place": "Copilco",
+    "costo": "$150",
+    "address": "Cerro de Los Hornos 15, Copilco Universidad, 04360 Coyoacán, CDMX",
+    "foodType": "Pizza",
+    "img": "img/dominos.jpg"
+  },
+  {
+    "latitude": 19.330142,
+    "longitude": -99.215583,
+    "name": "Domino's Pizza",
+    "place": "San Jeronimo",
+    "costo": "$150",
+    "address": "Av. San Jerónimo 819, San Jerónimo Lídice, 10200 La Magdalena Contreras, CDMX",
+    "foodType": "Pizza",
+    "img": "img/dominos.jpg"
+  },
+  {
+    "latitude": 19.386492,
+    "longitude": -99.186352,
+    "name": "Pizza Hut",
+    "place": "Avenida Revolución",
+    "costo": "$150",
+    "address": "Avenida Revolución 617 y 619, San Pedro de los Pinos, Benito Juarez, CDMX",
+    "foodType": "Pizza",
+    "img": "img/hut.jpg"
+  },
+  {
+    "latitude": 19.348807,
+    "longitude": -99.186021,
+    "name": "Pizza Hut",
+    "place": "Álvaro Obregón",
+    "costo": "$150",
+    "address": "Miguel Angel de Quevedo #19, Álvaro Obregón, CDMX",
+    "foodType": "Pizza",
+    "img": "img/hut.jpg"
+  },
+  {
+    "latitude": 19.409732,
+    "longitude": -99.175141,
+    "name": "Wings Factory",
+    "place": "Condesa",
+    "costo": "$500",
+    "address": "Av. Tamaulipas 136, Hipódromo Condesa, 06100 Ciudad de México, CDMX",
+    "foodType": "Alitas y Cerveza",
+    "img": "img/wings-factory.jpg"
+  },
+  {
+    "latitude": 19.357664,
+    "longitude": -99.183477,
+    "name": "Wings Factory",
+    "place": "Insurgentes",
+    "costo": "$500",
+    "address": "Av de los Insurgentes Sur 1800, Florida, 01030 Ciudad de México, CDMX",
+    "foodType": "Alitas y Cerveza",
+    "img": "img/wings-factory.jpg"
+  },
+  {
+    "latitude": 19.406310,
+    "longitude": -99.170102,
+    "name": "Las Alitas",
+    "place": "Condesa",
+    "costo": "$500",
+    "address": "Av. Baja California 265 y 267, Hipódromo Condesa, 06600 Ciudad de México, CDMX",
+    "foodType": "Alitas y Cerveza",
+    "img": "img/las-alitas.jpg"
+  },
+  {
+    "latitude": 19.306502,
+    "longitude": -99.207293,
+    "name": "Las Alitas",
+    "place": "Pedregal",
+    "costo": "$500",
+    "address": "Periférico Sur 4178, Jardines del Pedregal, 01900 Ciudad de México, CDMX",
+    "foodType": "Alitas y Cerveza",
+    "img": "img/las-alitas.jpg"
+  },
+  {
+    "latitude": 19.440403,
+    "longitude": -99.200443,
+    "name": "Moshi Moshi",
+    "place": "Miyana",
+    "costo": "$350",
+    "address": "Av Ejército Nacional 769, Granada, 11520 Ciudad de México, CDMX",
+    "foodType": "Sushi",
+    "img": "img/moshi-moshi.jpg"
+  },
+  {
+    "latitude": 19.366874,
+    "longitude": -99.166948,
+    "name": "Moshi Moshi",
+    "place": "Plaza Universidad",
+    "costo": "$350",
+    "address": "Av. Universidad 1038, Xoco, 03330 Ciudad de México, CDMX",
+    "foodType": "Sushi",
+    "img": "img/moshi-moshi.jpg"
+  }
+]
