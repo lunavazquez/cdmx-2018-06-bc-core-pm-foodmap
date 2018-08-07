@@ -1,0 +1,12 @@
+.alert {
+  text-align: center;
+  font-size: 26px;
+}
+
+.fotos{
+  position: relative;
+}
+
+img{
+  padding-bottom: 10px;
+}
